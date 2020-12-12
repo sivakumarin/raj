@@ -7,6 +7,8 @@ public class Hello{
 			
 		}
 		System.out.println("End of the program");
+		System.out.println("Update after branching");
+		System.out.println("First commit after Github configuration");
 	
 	
 	
